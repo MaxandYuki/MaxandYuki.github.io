@@ -6,7 +6,7 @@ email: zhaolei19@mails.ucas.ac.cn
 description: ""
 keyword: "Lei Zhao, Zhao Lei, 赵磊"
 url: "https://maxandyuki.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "I hope there will be unexpected surprises in autumn."      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/maxandyuki/maxandyuki.github.io.git" # you code repository
 
 # Sidebar settings
